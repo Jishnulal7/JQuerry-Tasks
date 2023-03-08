@@ -1,0 +1,42 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .basket {
+    width: 300px;
+    height: 200px;
+    background-color: #ccc;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .ball {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin: 5px;
+  }
+  
+  .red { background-color: red; }
+  .blue { background-color: blue; }
+  .yellow { background-color: yellow; }
+  .lightgrey { background-color: lightgrey; }
+  .darkorchid { background-color: darkorchid; }
+  .black { background-color: black; }
+  .orange { background-color: orange; }
+  .deeppink { background-color: deeppink; }
+  .green { background-color: green; }
+  .purple { background-color: purple; }
+  .saddlebrown { background-color: saddlebrown; }
+  .lightseagreen { background-color: lightseagreen; }
+  .deepskyblue { background-color: deepskyblue; }
+  .firebrick { background-color: firebrick; }
+  .crimson { background-color: crimson; }
+  
